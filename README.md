@@ -1,5 +1,5 @@
-##Some algorithms to work with.
+#Some algorithms to work with.
 
-Recursion
-Searchalgorithm
-Sortalgorithm
+-Recursion
+-Searchalgorithm
+-Sortalgorithm
