@@ -19,7 +19,7 @@ function merge(arr1: number[], arr2: number[]): number[] {
     }
     while (j < arr2.length) {
       result.push(arr2[j]);
-      j++;
+      j++; 
     }
   
     return result;
